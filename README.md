@@ -3,7 +3,8 @@
   Hola
 
 </p>
----
+
+ ---
 
 <p align="center">
   
@@ -11,7 +12,7 @@
 
 </p>
 
----
+ ---
 
 <div align="right">
   <img src="https://views.whatilearened.today/views/github/Xerbuff/verma-anushka.svg">
