@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <img src="game.gif">
+  <img src="daisuke.gif">
 
 </p>
 
