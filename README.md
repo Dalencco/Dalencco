@@ -1,5 +1,5 @@
 <p align="center">
-  Hi
+  Hi, I'm Xer, I'm Pen-Tester & Programmer, I have knowledge of Cryptography (Low), Wifi Hacking (Medium-Advanced), Hacking System (Medium-Advanced) & Hacking Eticó (Medium) - [OSCP, OSWP, CEH, eJPT , BC].
 </p>
 
  ---
