@@ -1,7 +1,5 @@
 <p align="center">
-  
-  Hola
-
+  Hi
 </p>
 
  ---
