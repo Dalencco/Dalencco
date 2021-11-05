@@ -11,11 +11,6 @@
 </p>
 
  ---
- 
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/4lcr83ynummqmwlx85z8lf4xv)
-  
-  
- ---
 
 <div align="right">
   <img src="https://views.whatilearened.today/views/github/Xerbuff/verma-anushka.svg">
