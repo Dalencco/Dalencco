@@ -11,6 +11,10 @@
 </p>
 
  ---
+ 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4lcr83ynummqmwlx85z8lf4xv&count=1)
+
+ ---
 
 <div align="right">
   <img src="https://views.whatilearened.today/views/github/Xerbuff/verma-anushka.svg">
