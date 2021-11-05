@@ -3,8 +3,6 @@
   
 </p>
 
-<code align="center">Python, JS & PHP</code>
-
  ---
 
 <p align="center">
