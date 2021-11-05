@@ -12,8 +12,9 @@
 
  ---
  
- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
+</center>
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/4lcr83ynummqmwlx85z8lf4xv)
+</center>
  ---
 
 <div align="right">
