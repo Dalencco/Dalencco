@@ -1,6 +1,7 @@
-<p align="center">
-  Hi, I'm Xer, I'm Pen-Tester & Programmer, I have knowledge of Cryptography (Low), Wifi Hacking (Medium-Advanced), Hacking System (Medium-Advanced) & Ethical Hacking (Medium) - [OSCP, OSWP, CEH, eJPT , BC].
-  
+<p align="center" align-item="center">
+  Hi, I'm Xer, I'm Pen-Tester & Programmer, I have knowledge of Cryptography (Low), Wifi Hacking (Medium-Advanced), Hacking System (Medium-Advanced) & Ethical Hacking (Medium) - [OSCP, OSWP, CEH, eJPT , BC].<br>
+  <code>Developer: Python, JS & PHP</code><br>
+  <code>Learning: C#, Java & C</code><br>
 </p>
 
  ---
