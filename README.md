@@ -13,8 +13,12 @@
 </p>
 
  ---
+ 
+ <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerbuff&exclude_repo=eslint-config&theme=dracula" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerbuff&exclude_repo=eslint-config&theme=dracula" alt="Br3Fuck" />
+</p>
 
  ---
 
