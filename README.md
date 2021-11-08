@@ -14,6 +14,10 @@
 
  ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3fuck&exclude_repo=eslint-config&theme=dracula" alt="Br3Fuck" />
+
+ ---
+
 <div align="right">
   <img src="https://views.whatilearened.today/views/github/Xerbuff/verma-anushka.svg">
   <img src="https://img.shields.io/badge/Gracias%20por%20visitarme%20Negro-!-1EAEDB.svg">
