@@ -8,7 +8,7 @@
 
 <p align="center">
   
-  <img src="daisuke.gif">
+  <img src="game.gif">
 
 </p>
 
