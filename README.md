@@ -1,5 +1,5 @@
 <p align="center" align-item="center">
-  Hola, soy Devine. Actualmente me dedico a la Programacion y Hacking, soy estudiante de Ciencias de la Computacion & Tecnico en Informatica Profesional - [OSCP, OSWP, CEH, eJPT , BC].<br>
+  Hola, soy Devine. Actualmente me dedico a la Programacion y Hacking - [OSCP, OSWP, CEH, eJPT , BC].<br>
   <code>Developer: Python, JS & PHP</code><br>
   <code>Learning: C#, Java & C</code><br>
 </p>
