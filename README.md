@@ -1,7 +1,7 @@
 <p align="center" align-item="center">
   Hola, soy Devine. Actualmente me dedico a la Programacion y Hacking - [OSCP, OSWP, CEH, eJPT , BC].<br>
-  <code>Developer: Python, JS & PHP</code><br>
-  <code>Learning: C#, Java & C</code><br>
+  <code>Developer: Python, JS, Java, C & PHP</code><br>
+  <code>Learning: C#, Elixir & .NET</code><br>
 </p>
 
  ---
