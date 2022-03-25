@@ -1,7 +1,7 @@
 <p align="center" align-item="center">
   Hola, soy Devine. Actualmente me dedico a la Programacion y Seguridad Informatica.<br>
-  <code>Developer: Python, JS/TS, Java, C++ & PHP</code><br>
-  <code>Learning: C#, Elixir & .NET</code><br>
+  <code>Developer: Python, JS/TS, Java, Kotlin, ASP.NET 5/6, C#, C++ & PHP</code><br>
+  <code>Learning: Elixir & C </code><br>
 </p>
 
  ---
