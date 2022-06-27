@@ -1,5 +1,9 @@
 <div align="center">
   <img align="center" src="images/python.png" width="50px" height="50px">
+  <img align="center" src="images/html-5.png" width="50px" height="50px">
+  <img align="center" src="images/css-3.png" width="50px" height="50px">
+  <img align="center" src="images/c-sharp.png" width="50px" height="50px">
+  <img align="center" src="images/mysql.png" width="50px" height="50px">
 </div>
 
 <div>
