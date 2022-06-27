@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img align="center" src="images/python.png" width="50px" height="50px">
 </div>
 
 <div>
