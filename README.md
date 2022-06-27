@@ -1,20 +1,5 @@
 &nbsp;
 
-> # The Best Actual Technologies.
-
-
-<div>
-  <img align="left" src="images/icons8-laravel-50.png" width="50px" height="50px">
-  <img align="right" src="images/spring-boot.png" width="50px" height="50px">
-  <img align="right" src="images/physics.png" width="50px" height="50px">
-</div>
-
-&nbsp;
-
----
-
-&nbsp;
-
 > # With the Best Actual Languages.
 
 &nbsp;
