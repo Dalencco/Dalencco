@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<div>
+<div align="center">
   <img align="left" src="images/python.png" width="50px" height="50px">
   <img align="right" src="images/html-5.png" width="50px" height="50px">
   <img align="right" src="images/css-3.png" width="50px" height="50px">
