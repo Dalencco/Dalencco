@@ -1,6 +1,9 @@
+
+
+
 &nbsp;
 
-> # The Best Actual Technologies.
+> # Languages & Technologies.
 
 &nbsp;
 
@@ -15,18 +18,6 @@
   <img align="center" src="tailwindcss.png" width="70px" height="50px">
   <img align="center" src="images/laravel.png" width="50px" height="50px">
   <img align="center" src="images/phoenix.png" width="50px" height="50px">
-</div>
-
----
-
-
-&nbsp;
-
-> # With the Best Actual Languages.
-
-&nbsp;
-
-<div align="center">
   <img align="center" src="images/python.png" width="50px" height="50px">
   <img align="center" src="images/html-5.png" width="50px" height="50px">
   <img align="center" src="images/css-3.png" width="50px" height="50px">
