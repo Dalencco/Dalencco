@@ -6,6 +6,8 @@
 
 <div align="center">
   <img align="center" src="mongodb.png" width="50px" height="50px">
+  <img align="center" src="images/electron.png" width="50px" height="50px">
+  <img align="center" src="images/alpinejs.png" width="50px" height="50px">
   <img align="center" src="spring-boot.png" width="50px" height="50px">
   <img align="center" src="mysql.png" width="50px" height="50px">
   <img align="center" src="nodejs.png" width="50px" height="50px">
