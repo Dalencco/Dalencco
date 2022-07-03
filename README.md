@@ -11,6 +11,8 @@
   <img align="center" src="nodejs.png" width="50px" height="50px">
   <img align="center" src="react.png" width="50px" height="50px">
   <img align="center" src="tailwindcss.png" width="70px" height="50px">
+  <img align="center" src="images/laravel.png" width="50px" height="50px">
+  <img align="center" src="images/phoenix.png" width="50px" height="50px">
 </div>
 
 ---
