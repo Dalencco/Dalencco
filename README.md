@@ -1,18 +1,38 @@
 &nbsp;
 
+> # The Best Actual Technologies.
+
+&nbsp;
+
+<div align="center">
+  <img align="center" src="images/python.png" width="50px" height="50px">
+  <img align="center" src="images/html-5.png" width="50px" height="50px">
+  <img align="center" src="images/css-3.png" width="50px" height="50px">
+  <img align="center" src="images/c-sharp.png" width="50px" height="50px">
+  <img align="center" src="images/js.png" width="50px" height="50px">
+  <img align="center" src="images/c-.png" width="50px" height="50px">
+  <img align="center" src="images/java.png" width="50px" height="50px">
+  <img align="center" src="images/php.png" width="50px" height="50px">
+</div>
+
+---
+
+
+&nbsp;
+
 > # With the Best Actual Languages.
 
 &nbsp;
 
 <div align="center">
-  <img align="left" src="images/python.png" width="50px" height="50px">
-  <img align="right" src="images/html-5.png" width="50px" height="50px">
-  <img align="right" src="images/css-3.png" width="50px" height="50px">
+  <img align="center" src="images/python.png" width="50px" height="50px">
+  <img align="center" src="images/html-5.png" width="50px" height="50px">
+  <img align="center" src="images/css-3.png" width="50px" height="50px">
   <img align="center" src="images/c-sharp.png" width="50px" height="50px">
-  <img align="right" src="images/js.png" width="50px" height="50px">
+  <img align="center" src="images/js.png" width="50px" height="50px">
   <img align="center" src="images/c-.png" width="50px" height="50px">
-  <img align="left" src="images/java.png" width="50px" height="50px">
-  <img align="left" src="images/php.png" width="50px" height="50px">
+  <img align="center" src="images/java.png" width="50px" height="50px">
+  <img align="center" src="images/php.png" width="50px" height="50px">
 </div>
 
 ---
