@@ -37,6 +37,7 @@
 <div align="center">
   <img align="center" src="mongodb.png" width="40px" height="40px">
   <img align="center" src="images/bash.png" width="40px" height="40px">
+  <img align="center" src="images/cloudflare.png" width="60px" height="40px">
   <img align="center" src="images/electron.png" width="40px" height="40px">
   <img align="center" src="images/alpinejs.png" width="40px" height="40px">
   <img align="center" src="spring-boot.png" width="40px" height="40px">
