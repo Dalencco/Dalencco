@@ -6,7 +6,8 @@
 <br>
 
 <div align="center">
-  <code>Hi, My name is Kento. I'm a FullStack Developer in Multiple Tech & Langs.</code>
+  <code>Hi, My name is Kento. I'm a Full-Stack Developer in Multiple Tech & Langs.</code>
+  <h3> 🧪 Full-Stack - 🌱 Naturality - ⚽ Sports - 💵 Freelancer - 🚀 Dynamic Science </h3>
 </div>
 
 <h1 align="center"> Projects & Org </h1>
@@ -15,10 +16,10 @@
 
 <div align="center">
 
-| Vedo | Atex |
-| :---: | :---: |
-| <img align="center" src="https://cdn.discordapp.com/attachments/907045262269227029/972616384511107072/PicsArt_05-07-06.49.48.png" width="150px" height="150px" /> | <img align="left" src="https://cdn.discordapp.com/attachments/803130523664515102/993303938164080690/6c65b3ed3c0d97a469d0be71037d5a5d.gif" width="150px" height="150px" /> |
-| <a href="/"> <code align="center">Coming Soon</code> </a> | <a href="/"> <code align="center">Coming Soon</code> </a> |
+| Vedo | Atex | Ibein |
+| :---: | :---: | :---: | 
+| <img align="center" src="https://cdn.discordapp.com/attachments/907045262269227029/972616384511107072/PicsArt_05-07-06.49.48.png" width="150px" height="150px" /> | <img align="left" src="https://cdn.discordapp.com/attachments/803130523664515102/993303938164080690/6c65b3ed3c0d97a469d0be71037d5a5d.gif" width="150px" height="150px" /> | <img align="left" src="https://cdn.discordapp.com/attachments/803130523664515102/993303938164080690/6c65b3ed3c0d97a469d0be71037d5a5d.gif" width="150px" height="150px" /> |
+| <a href="/" target="_blank"> <code align="center">Coming Soon</code> </a> | <a href="/" target="_blank"> <code align="center">Coming Soon</code> </a> | <a href="/" target="_blank"> <code align="center">Coming Soon</code> </a> |
 
 </div>
 
