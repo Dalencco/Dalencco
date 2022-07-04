@@ -1,9 +1,35 @@
+&nbsp;
 
+> # BIO
+
+<br>
+<br>
+
+<div align="center">
+  <code>Hi, My name is Kento. I'm a FullStack Developer in Multiple Tech&Langs.</code>
+</div>
+
+<h1 align="center"> Projects & Org </h1>
+
+<br>
+
+<div align="center">
+
+| Vedo | Atex |
+| :---: | :---: |
+| <img align="left" src="https://cdn.discordapp.com/attachments/803130523664515102/993303938164080690/6c65b3ed3c0d97a469d0be71037d5a5d.gif" width="100px" height="100px"> | <img align="left" src="https://cdn.discordapp.com/attachments/803130523664515102/993303938164080690/6c65b3ed3c0d97a469d0be71037d5a5d.gif" width="100px" height="100px"> |
+| <a href="https://reety.tk/"> <code align="center">A</code> </a> | <a href="https://reety.tk/"> <code align="center">A</code> </a> |
+
+</div>
+
+&nbsp;
+
+---
 
 
 &nbsp;
 
-> # Languages & Technologies.
+> # Languages & Technologies
 
 &nbsp;
 
