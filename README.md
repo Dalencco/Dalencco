@@ -63,9 +63,9 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kentomii&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=discord" />
+</p>
 
 &nbsp;
 
