@@ -35,7 +35,7 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,laravel,cpp,cs,cloudflare,bash,mongodb,heroku,react,tailwindcss,python,electron,mysql,nodejs,html,css,js,java,php,golang,rust,vscode,alpinejs,linux,autocad,jquery,elixir,rails,flutter,redis,c,vim" />
+  <img src="https://skillicons.dev/icons?i=git,laravel,cpp,cs,cloudflare,bash,mongodb,heroku,react,tailwindcss,python,electron,mysql,nodejs,html,css,js,java,ruby,netlify,dart,tensorflow,php,golang,rust,vscode,alpinejs,linux,autocad,jquery,elixir,rails,flutter,redis,c,vim" />
 </p>
 
 <br>
