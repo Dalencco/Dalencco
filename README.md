@@ -61,12 +61,13 @@
   <img align="center" src="golang.png" width="80px" height="40px">
 </div>
 
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kentomii&theme=discord&margin-w=15&column=7" />
+</div>
+
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kentomii&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=discord" />
-</p>
-
 &nbsp;
 
 <div>
