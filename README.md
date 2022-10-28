@@ -34,32 +34,9 @@
 
 &nbsp;
 
-<div align="center">
-  <img align="center" src="mongodb.png" width="40px" height="40px">
-  <img align="center" src="images/bash.png" width="40px" height="40px">
-  <img align="center" src="images/oracle-cloud.png" width="70px" height="40px">
-  <img align="center" src="images/netlify.png" width="40px" height="40px">
-  <img align="center" src="images/heroku.png" width="40px" height="40px">
-  <img align="center" src="images/cloudflare.png" width="60px" height="40px">
-  <img align="center" src="images/electron.png" width="40px" height="40px">
-  <img align="center" src="images/alpinejs.png" width="40px" height="40px">
-  <img align="center" src="spring-boot.png" width="40px" height="40px">
-  <img align="center" src="mysql.png" width="40px" height="40px">
-  <img align="center" src="nodejs.png" width="40px" height="40px">
-  <img align="center" src="react.png" width="40px" height="40px">
-  <img align="center" src="tailwindcss.png" width="60px" height="40px">
-  <img align="center" src="images/laravel.png" width="40px" height="40px">
-  <img align="center" src="images/phoenix.png" width="40px" height="40px">
-  <img align="center" src="images/python.png" width="40px" height="40px">
-  <img align="center" src="images/html-5.png" width="40px" height="40px">
-  <img align="center" src="images/css-3.png" width="40px" height="40px">
-  <img align="center" src="images/c-sharp.png" width="40px" height="40px">
-  <img align="center" src="images/js.png" width="40px" height="40px">
-  <img align="center" src="images/c-.png" width="40px" height="40px">
-  <img align="center" src="images/java.png" width="40px" height="40px">
-  <img align="center" src="images/php.png" width="40px" height="40px">
-  <img align="center" src="golang.png" width="80px" height="40px">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,laravel,cpp,cs,cloudflare,bash,mongodb,heroku,react,tailwindcss,python,electron,mysql,nodejs,html,css,js,java,php,golang,rust,vscode,alpinejs,linux,autocad,jquery,elixir,rails,flutter,redis,c,vim" />
+</p>
 
 <br>
 
