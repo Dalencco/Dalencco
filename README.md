@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <code>Hi, My name is Kento. I'm a Full-Stack Developer in Multiple Tech & Langs.</code>
+  <code>Hi, My name is David. I'm a Full-Stack Developer in Multiple Tech & Langs.</code>
   <h3> 🧪 Full-Stack - 🌱 Naturality - ⚽ Sports - 💵 Freelancer - 🚀 Dynamic Science </h3>
 </div>
 
