@@ -14,6 +14,8 @@
 
 <br>
 
+<!--
+
 <div align="center">
 
 | Vedo | Atex | Ibein |
@@ -24,6 +26,8 @@
 </div>
 
 &nbsp;
+
+-->
 
 ---
 
