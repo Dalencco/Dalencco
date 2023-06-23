@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kentomii&theme=discord&margin-w=15&column=7" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Dalencco&theme=discord&margin-w=15&column=7" />
 </div>
 
 ---
