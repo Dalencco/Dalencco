@@ -10,11 +10,11 @@
   <h3> 🧪 Full-Stack - 🌱 Naturality - ⚽ Sports - 💵 Freelancer - 🚀 Dynamic Science </h3>
 </div>
 
+<!--
+
 <h1 align="center"> Projects & Org </h1>
 
 <br>
-
-<!--
 
 <div align="center">
 
